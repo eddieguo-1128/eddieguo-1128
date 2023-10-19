@@ -1,6 +1,5 @@
 ### Hi there 👋 
 
-- 📖 I’m a senior studying Data Science and Environmental Economics @ UC Berkeley
-- 🌱 I’m currently learning NLP
-- 📫 How to reach me: eddieguo@berkeley.edu
+- 📖 I’m a master's student at CMU studying ML/NLP
+- 📫 How to reach me: yuzhiguo@andrew.cmu.edu
 - 😄 Pronouns: He/Him/His
